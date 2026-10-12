@@ -1,0 +1,15 @@
+# Virtual Environment
+venv/
+env/
+.env
+
+# Streamlit secrets (protects your API key)
+.streamlit/secrets.toml
+
+# Python cache & temp files
+__pycache__/
+*.py[cod]
+.cache/
+
+# Local CSV test exports
+*.csv
